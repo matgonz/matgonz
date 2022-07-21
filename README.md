@@ -1,4 +1,4 @@
-### Hi, I'm Matheus! 👋 
+### Hi, I'm Matheus!
 A software developer turned ML engineer.
 
 
