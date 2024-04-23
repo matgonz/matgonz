@@ -1,16 +1,13 @@
-### Hi there 👋
+### Matheus Gonzalez
+---
 
-<!--
-**matgonz/matgonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I've shaped my career at the intersection of Software Development and Machine Learning, helping companies optimize their infrastructure and unlock potential through data, resulting in increased revenue and greater operational efficiency.
 
-Here are some ideas to get you started:
+I'm driven by a deep passion for learning and sharing knowledge in the world. This profile showcases my projects and contributions, reflecting my journey of continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Quick guide to explore my github repositories:
+
+📚 -> Continuous learning and studies <br>
+👩‍🏫 -> Training materials from the courses I teach <br>
+💻 -> Personal projects where I explore new technologies and creative solutions <br>
+🛠️ -> Save useful informations <br>
