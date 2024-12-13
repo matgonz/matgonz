@@ -8,6 +8,6 @@ I'm driven by a deep passion for learning and sharing knowledge in the world. Th
 Quick guide to explore my github repositories:
 
 📚 -> Continuous learning and studies <br>
-👩‍🏫 -> Training materials from the courses I teach <br>
+👩‍🏫 -> Training materials from the courses I teached <br>
 💻 -> Personal projects where I explore new technologies and creative solutions <br>
 🛠️ -> Save useful informations <br>
